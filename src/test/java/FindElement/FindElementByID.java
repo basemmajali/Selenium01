@@ -18,7 +18,3 @@ public class FindElementByID {
         System.out.println(driver.findElement(By.ById.id("welcome")).getText());
         driver.quit();
     }}
-//
-//    git remote add origin https://github.com/basemmajali/Selenium01.git
-//        git branch -M main
-//        git push -u origin main
